@@ -11,6 +11,8 @@ function App() {
       <Jefry />
       <Home/>
       <Bichu/>
+      <P>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam delectus reiciendis molestiae sunt, molestias, minima error recusandae officia expedita ipsam, aperiam quaerat 
+        eum accusantium omnis assumenda impedit? Qui, reprehenderit. Doloribus.</P>
     </>
   )
 }
