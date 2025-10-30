@@ -1,4 +1,5 @@
 import Home from "../Home"
+import Bichu from "./Bichu"
 import Jefry from "./Jefry"
 
 
@@ -9,6 +10,7 @@ function App() {
       <h1>Hello</h1> 
       <Jefry />
       <Home/>
+      <Bichu/>
     </>
   )
 }
